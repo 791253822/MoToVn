@@ -6,10 +6,10 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-    "heimuer": {
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "黑木耳",
-      "detail": "https://heimuer.tv"
+    "iqiyizy": {
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "name": "爱奇艺资源",
+      "detail": "https://iqiyizy.com"
     },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
@@ -63,7 +63,8 @@
     },
     "yinghua": {
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-      "name": "樱花资源"
+      "name": "樱花资源",
+      "detail": "https://yhzy.cc"
     },
     "wujin": {
       "api": "https://api.wujinapi.me/api.php/provide/vod",
@@ -88,10 +89,6 @@
     "zy360": {
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
-    },
-    "hwba": {
-      "api": "https://cjhwba.com/api.php/provide/vod",
-      "name": "华为吧资源"
     },
     "ckzy": {
       "api": "https://www.ckzy1.com/api.php/provide/vod",
@@ -124,6 +121,11 @@
     "huangcang": {
       "api": "http://hsckzy888.com/api.php/provide/vod",
       "name": "黄色仓库"
+    },
+    "xiaoji": {
+      "api": "https://xiaojizy.live/index/api",
+      "name": "小鸡资源",
+      "detail": "https://xiaojizy.live"
     },
     "yutu": {
       "api": "https://apiyutu.com/api.php/providedao/vod",
